@@ -1,0 +1,33 @@
+body {
+  font-family: "Rubik", sans-serif;
+  margin: 0px;
+  color: var(--cor);
+  background: var(--fundo);
+}
+h1,
+h2,
+h3,
+h4,
+p {
+  margin: 0px;
+}
+ul {
+  list-style: none;
+  margin: 0px;
+  padding: 0px;
+}
+img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+}
+p {
+  line-height: 24px;
+}
+:root {
+    --cor: #000;
+    --fundo: #fff;
+    --logo: #141414;
+    --cor2: #d8d8d8;
+    --cor3: #000;
+  }
